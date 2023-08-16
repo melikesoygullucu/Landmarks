@@ -16,6 +16,7 @@ struct Landmark: Hashable, Codable, Identifiable{
     var state: String
     var description: String
     var isFavorite: Bool
+    var isFeatured: Bool
 
     
     var category: Category
@@ -42,3 +43,5 @@ struct Landmark: Hashable, Codable, Identifiable{
         var longitude: Double
     }
 }
+
+//ka
