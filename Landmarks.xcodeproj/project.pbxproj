@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0B2C17382A8CAF11001E4027 /* CategoryItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B2C17372A8CAF11001E4027 /* CategoryItem.swift */; };
 		0C04A0D02A7BCC9900AE6192 /* LandmarksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C04A0CF2A7BCC9900AE6192 /* LandmarksApp.swift */; };
 		0C04A0D22A7BCC9900AE6192 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C04A0D12A7BCC9900AE6192 /* ContentView.swift */; };
 		0C04A0D42A7BCC9B00AE6192 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C04A0D32A7BCC9B00AE6192 /* Assets.xcassets */; };
@@ -55,6 +56,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0B2C17372A8CAF11001E4027 /* CategoryItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryItem.swift; sourceTree = "<group>"; };
 		0C04A0CC2A7BCC9900AE6192 /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C04A0CF2A7BCC9900AE6192 /* LandmarksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksApp.swift; sourceTree = "<group>"; };
 		0C04A0D12A7BCC9900AE6192 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -258,6 +260,7 @@
 			children = (
 				0C91918C2A7D258100762D82 /* CategoryHome.swift */,
 				0C91918E2A7D284A00762D82 /* CategoryRow.swift */,
+				0B2C17372A8CAF11001E4027 /* CategoryItem.swift */,
 			);
 			path = Categories;
 			sourceTree = "<group>";
@@ -362,6 +365,7 @@
 				0C04A1322A7D1D1000AE6192 /* GraphCapsule.swift in Sources */,
 				0C04A0E02A7BE76900AE6192 /* SwiftUIViewCircleImage.swift in Sources */,
 				0C04A0F22A7CF22300AE6192 /* FavoriteButton.swift in Sources */,
+				0B2C17382A8CAF11001E4027 /* CategoryItem.swift in Sources */,
 				0C04A1342A7D1D1000AE6192 /* HikeDetail.swift in Sources */,
 				0C04A0F62A7D088800AE6192 /* HexagonParameters.swift in Sources */,
 				0C04A12C2A7D161B00AE6192 /* Hike.swift in Sources */,
